@@ -1,0 +1,12 @@
+
+
+@media only screen and (orientation: portrait) {
+    body {
+        background: #f0135c;
+    }
+}
+@media only screen and (orientation: landscape) {
+    body {
+        background: #0cca4b;
+    }
+}
